@@ -39,18 +39,24 @@ JavaEightFeature/
 │
 ├── src/main/java/
 │   ├── com/gevernnova/javaeightfeature/
-│   │
+│   │   │
 │   │   ├── AddressBookProblem/ -> Day02
 │   │   │   └── 📘 Address Book Assignment 
-│   │
+│   │   │
+│   │   ├── Java8FeatureProblemStatements/ -> Day03
+│   │   │   └── 📘 Java 8 Features Problem that are given on Day03
+│   │   │ 
 │   │   ├── MethodReferenceProblems/ -> Day03
 │   │   │   └── ⚙️ Java 8 Method References 
-│   │
+│   │   │
 │   │   ├── NewDateTimeApisProblems/ -> Day03
 │   │   │   └── ⏰ Java 8 Date & Time API 
-│   │
+│   │   │
 │   │   ├── UserRegistrationProblem/ ->Day02
 │   │   │   └── 👤 User Registration & Validation 
+│   │   │
+│   │   ├── VirtualClassroomUsingCollectionLibrary/ -> Day01
+│   │   │   └── 📘 Day01 Assignment  
 │   │
 │   └── org/example/
 │       └── 🧪 Practice / Sample Programs
